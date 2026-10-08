@@ -37,7 +37,8 @@ export default function Closing() {
           </p>
           <p className="muted">
             An independent student visual identity interpreting {PROJECT.event}. Not affiliated with, sponsored or endorsed by
-            rhode. Product and place names belong to their owners. Research images are credited in the accompanying process book.
+            rhode. Product and place names belong to their owners. Mood photography via Unsplash (
+            <a href="/images/CREDITS.md">image credits</a>); research images are credited in the accompanying process book.
           </p>
           <a href="#top" className="cta cta--quiet">
             Back to top

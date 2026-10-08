@@ -153,6 +153,9 @@ export const FEEL = [
 export const STATION_INTRO =
   "Summer Station brought rhode's Summer '26 world into physical spaces across five destinations.";
 
+// Station photos are location references (the cities), not photos of the event itself.
+export const STATION_NOTE = 'Images: location references, not event photography.';
+
 export const STOPS = [
   { n: '01', code: 'RI', name: 'Rhode Island', dates: 'June 11-14', place: "Bowen's Wharf, Newport", region: 'Rhode Island, USA', caption: 'Wharfside, Newport.', src: '/images/event-rhode-island.jpg' },
   { n: '02', code: 'DAL', name: 'Dallas', dates: 'June 26-29', place: '3212 Knox Street', region: 'Dallas, Texas, USA', caption: 'Knox Street, Dallas.', src: '/images/event-dallas.jpg' },

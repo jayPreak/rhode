@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import Media from '../Media';
-import { STATION_INTRO, STOPS } from '../../content/site';
+import { STATION_INTRO, STATION_NOTE, STOPS } from '../../content/site';
 
 /* SECTION 05 — SUMMER, IRL. Horizontal, swipeable chapters (native scroll-snap).
    Edit in content/site.js > STOPS. Replace /public/images/event-*.jpg */
@@ -37,6 +37,7 @@ export default function Station() {
         </h2>
         <p className="body station__intro" data-reveal style={{ '--d': 1 }}>
           {STATION_INTRO}
+          <span className="label station__note">{STATION_NOTE}</span>
         </p>
         <ol className="route" aria-label="Tour route" data-reveal style={{ '--d': 2 }}>
           {STOPS.map((s, i) => (
@@ -61,7 +62,7 @@ export default function Station() {
               <span className="label">Stop {s.n}</span>
               <span className="label">{s.dates}</span>
             </div>
-            <Media src={s.src} alt={`rhode Summer Station, ${s.name}`} label={`Event image, ${s.name}`} ratio="4/5" tone="#DCC3A3" />
+            <Media src={s.src} alt={`${s.name}, location reference`} label={`Event image, ${s.name}`} ratio="4/5" tone="#DCC3A3" />
             <h3 className="display-l stop__name">{s.name}</h3>
             <p className="stop__place">
               {s.place}

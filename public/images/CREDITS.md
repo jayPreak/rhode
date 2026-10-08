@@ -1,8 +1,28 @@
 # Image credits
 
-Mood / texture images below are from [Unsplash](https://unsplash.com) under the [Unsplash License](https://unsplash.com/license). They are atmospheric references only: none show rhode products, packaging or the Summer Station event.
+## rhode (official imagery)
 
-Slots NOT filled on purpose (add your own research images): `product-01..05.jpg`, `taste-packaging.jpg`, `event-*.jpg`, `experience-*.jpg`, `archive-06/07/08/14/15.jpg` (packaging, product, people).
+Product and campaign images © rhode, sourced from the public rhodeskin.com product catalogue. Used here for non-commercial, educational documentation in a student project. Not affiliated with or endorsed by rhode.
+
+| File | Source |
+|---|---|
+| `product-01.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/highlight-milk-2-hero2-mobile.jpg |
+| `product-02.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/sunbed-hero1-mobile.jpg |
+| `product-03.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/sunsoak-hero-1-mobile.jpg |
+| `product-04.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/pls-squeeze-hero1-mobile.jpg |
+| `product-05.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/macadamia-butter-hero1-mobile.jpg |
+| `taste-packaging.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/sun-kissed-set-hero1-mobile.jpg |
+| `archive-06.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/FINAL-peptide-lip-trio-hero1-mobile.jpg |
+| `archive-07.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/honey-mango-hero1-mobile.jpg |
+| `archive-15.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/colada-hero2-mobile.jpg |
+| `feel-towel.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/FINAL-towel-hero2-mobile.jpg |
+| `experience-shop.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/r_carabiner-hero1-mobile-1.jpg |
+| `experience-see.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/bronze-collection-mobile.jpg |
+| `experience-try.jpg` | https://cdn.shopify.com/s/files/1/0606/5451/8510/files/sunbed-meet-shade.jpg |
+
+## Unsplash
+
+Mood, texture and location images from [Unsplash](https://unsplash.com) under the [Unsplash License](https://unsplash.com/license). Station photos are **location references**, not photographs of the Summer Station event.
 
 | File | Photographer | Source |
 |---|---|---|
@@ -27,7 +47,6 @@ Slots NOT filled on purpose (add your own research images): `product-01..05.jpg`
 | `taste-sunlight.jpg` | [@augustinewong](https://unsplash.com/@augustinewong) | https://images.unsplash.com/photo-1595236629937-aadaf7c1d99d |
 | `taste-texture.jpg` | [@maruhruiz](https://unsplash.com/@maruhruiz) | https://images.unsplash.com/photo-1760740516392-e959f71c6027 |
 | `feel-water.jpg` | [@khodzinskyi](https://unsplash.com/@khodzinskyi) | https://images.unsplash.com/photo-1784153626267-e98ea001197a |
-| `feel-towel.jpg` | [@philipphubert](https://unsplash.com/@philipphubert) | https://images.unsplash.com/photo-1760783320488-9af5d3217f50 |
 | `feel-skin.jpg` | [@khodzinskyi](https://unsplash.com/@khodzinskyi) | https://images.unsplash.com/photo-1784154752284-3959332ed722 |
 | `feel-gloss.jpg` | [@kkalerry](https://unsplash.com/@kkalerry) | https://images.unsplash.com/photo-1758605456630-4883bdc0a07a |
 | `feel-cream.jpg` | [@360floralflaves](https://unsplash.com/@360floralflaves) | https://images.unsplash.com/photo-1728994062543-74a1dc2c9392 |
@@ -45,3 +64,14 @@ Slots NOT filled on purpose (add your own research images): `product-01..05.jpg`
 | `archive-12.jpg` | [@andrvv21](https://unsplash.com/@andrvv21) | https://images.unsplash.com/photo-1778557403328-24ccdcc2a820 |
 | `archive-13.jpg` | [@natalie_brennan](https://unsplash.com/@natalie_brennan) | https://images.unsplash.com/photo-1777989111080-edced8b0ef27 |
 | `archive-16.jpg` | [@merveky](https://unsplash.com/@merveky) | https://images.unsplash.com/photo-1761576881090-a3253f7e53dc |
+| `event-rhode-island.jpg` | [@dtrinksrph](https://unsplash.com/@dtrinksrph) | https://images.unsplash.com/photo-1654864309498-a91f5dbf93d1 |
+| `event-dallas.jpg` | [@baileyal3xander](https://unsplash.com/@baileyal3xander) | https://images.unsplash.com/photo-1646663496543-5e0e42eccd1f |
+| `event-vancouver.jpg` | [@anthonymaw](https://unsplash.com/@anthonymaw) | https://images.unsplash.com/photo-1753503288676-da4fc155f8da |
+| `event-copenhagen.jpg` | [@julienwidmer](https://unsplash.com/@julienwidmer) | https://images.unsplash.com/photo-1445168580797-f946f0688547 |
+| `event-amalfi.jpg` | [@chloe_lefleur](https://unsplash.com/@chloe_lefleur) | https://images.unsplash.com/photo-1724003751601-9b7e2767c245 |
+| `experience-arrive.jpg` | [@l1na](https://unsplash.com/@l1na) | https://images.unsplash.com/photo-1781036150205-e2d018fd3f02 |
+| `experience-explore.jpg` | [@popandzebra](https://unsplash.com/@popandzebra) | https://images.unsplash.com/photo-1564497654873-6b23354d7e39 |
+| `experience-document.jpg` | [@lucianooliveira](https://unsplash.com/@lucianooliveira) | https://images.unsplash.com/photo-1727334291061-fd29582ef9dc |
+| `experience-share.jpg` | [@ritchimondo_faharudo777](https://unsplash.com/@ritchimondo_faharudo777) | https://images.unsplash.com/photo-1638727894670-17ff3b7eff9d |
+| `archive-08.jpg` | [@elishavision](https://unsplash.com/@elishavision) | https://images.unsplash.com/photo-1516370873344-fb7c61054fa9 |
+| `archive-14.jpg` | [@aleromophotography](https://unsplash.com/@aleromophotography) | https://images.unsplash.com/photo-1590767602124-234d1714ed92 |

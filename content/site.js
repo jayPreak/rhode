@@ -15,9 +15,9 @@ export const PROJECT = {
   title: 'Summer, Packaged.',
   event: "rhode Summer Station '26",
   // EDIT: your details for the footer credit line
-  author: 'Your Name',
+  author: 'Ishita Shetye',
   course: 'Visual Identity, Deliverable 03',
-  school: 'Your School',
+  school: 'Atlas Skilltech University',
   year: '2026',
 };
 
